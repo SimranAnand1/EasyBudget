@@ -1,0 +1,3 @@
+# EasyBudget
+
+Mobile application
